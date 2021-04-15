@@ -30,4 +30,4 @@ tweet_count: number of tweets that the user has posted
 tweet_created: when the random tweet (in the text column) was created
 tweet_id: the tweet id of the random tweet
 tweet_location: location of the tweet; seems to not be particularly normalized
-user_timezone: the timezone of the user
+user_timezone: the timezone of the user.
